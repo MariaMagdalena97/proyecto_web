@@ -1,5 +1,10 @@
 body {
     background-color: #138d75;
+    background-image: url('ruta/imagen.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 }
 
 h1 {
